@@ -1,0 +1,14 @@
+# STM32CubeIDE build files
+Debug/
+Release/
+
+# Eclipse / STM32CubeIDE metadata
+.metadata/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+Thumbs.db
+.DS_Store
